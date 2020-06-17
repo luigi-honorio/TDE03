@@ -1,0 +1,74 @@
+body{
+    background-color: rgb(109, 109, 109);
+}
+a{
+    color:red;
+    margin-top: 50px;
+}
+button{
+    background-color: tomato;
+}
+button:hover{
+    cursor: pointer;
+}
+.logoproj1{
+    width: 350px;
+    height: 350px;
+    margin-right: 10px;
+}
+.proj1{
+    width: 400px;
+    height: 350px;
+    margin-left: 10px;
+}
+.logoproj2{
+    width: 350px;
+    height: 350px;
+    margin-right: 10px;
+}
+.proj2{
+    width: 400px;
+    height: 350px;
+    margin-left: 10px;
+    
+}
+.logoproj3{
+    width: 350px;
+    height: 350px;
+    margin-right: 10px;
+}
+.proj3{
+    width: 400px;
+    height: 350px;
+    margin-left: 10px;
+    
+}
+.titulo{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    color: white;
+}
+.trab1{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 25px;
+}
+.trab2{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    color: white;
+}
+.trab3{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center;
+    color: white;
+}
